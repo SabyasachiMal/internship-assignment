@@ -11,4 +11,5 @@ My Top 5 Learnings
 4\. Git branching workflow
 
 5\. GitHub pull request process
+6. Learned how to create and review Pull Requests.
 
